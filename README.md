@@ -1,2 +1,2 @@
-# Simple-Flaskapp
-A simple flask app for education purposes.
+# flask-app
+learning to deploy using kubernetes
